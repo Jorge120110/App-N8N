@@ -9,8 +9,8 @@ El usuario puede iniciar sesión con su cuenta de Google y compartir sus notas m
 ## Video de Presentacion
 
 <p align="center">
-  <a href="Video Presentacion">
-    <img src="ElementosGraficos/VidPresentacion.mp4" alt="Video Presentacion">
+  <a href="ElementosGraficos/VidPresentacion.mp4">
+    <img src="ElementosGraficos/MediNotas.png" alt="Video Presentacion">
   </a>
 </p>
 
