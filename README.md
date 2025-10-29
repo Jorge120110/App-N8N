@@ -13,6 +13,8 @@ El usuario puede iniciar sesión con su cuenta de Google y compartir sus notas m
   </a>
 </p>
 
+Link al video: https://drive.google.com/file/d/1kWEtV3zaR9Izqd_cilKySpHs2-pnvm8L/view?usp=sharing
+
 ## Cambios desde la propuesta inicial
 
 Desde la primera version de la APP se hicieron algunos cambios menores dentro de la estructura y se agregaron algunas cosas.
